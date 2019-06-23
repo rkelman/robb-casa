@@ -19,7 +19,7 @@
 		<title>Robert Kelman - Innovative. Technology. Leader</title>
   </head>
   <body>
-      <img src="RK3.png" alt="RK Brand TM"> 
+      <img src="images/RK3.png" alt="RK Brand TM"> 
       <p>Robert Kelman</p>
       <p>Innovative.  Technology.  Leader.</p>
       <p>Contact: email: <a href="mailto:robb@kelman.casa">robb@kelman.casa</a><BR></p>
