@@ -16,7 +16,7 @@
         <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
         <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
-		<title>Robert Kelman - Innovative. Technology. Leader</title>
+		<title>Robert Kelman - Innovative. Technology. Leader.</title>
   </head>
   <body>
       <img src="images/RK3.png" alt="RK Brand TM"> 
