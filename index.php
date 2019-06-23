@@ -21,5 +21,6 @@
   <body>
       <p>Robert Kelman</p>
       <p>Innovative.  Technology.  Leader.</p>
+      <p>Contact: email: <a href="mailto:robb@kelman.casa">robb@kelman.casa</a><BR></p>
   </body>      
 <html>
