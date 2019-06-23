@@ -13,12 +13,13 @@
 		<meta name="robots" content="index, follow" />
 		<meta name="revisit-after" content="14 days" />
 
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
 		<title>Robert Kelman - Innovative. Technology. Leader</title>
   </head>
   <body>
+      <img src="RK3.png" alt="RK Brand TM"> 
       <p>Robert Kelman</p>
       <p>Innovative.  Technology.  Leader.</p>
       <p>Contact: email: <a href="mailto:robb@kelman.casa">robb@kelman.casa</a><BR></p>
